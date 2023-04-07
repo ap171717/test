@@ -1,0 +1,150 @@
+﻿year,value,type
+1998,124.23666,Production
+1999,128.262,Production
+2000,117.88249,Production
+2001,108.38657,Production
+2002,107.4302,Production
+2003,97.83493,Production
+2004,87.51643,Production
+2005,77.1785,Production
+2006,69.66466,Production
+2007,70.35702,Production
+2008,65.49675,Production
+2009,62.82006,Production
+2010,58.0466,Production
+2011,48.57107,Production
+2012,42.05238,Production
+2013,38.45637,Production
+2014,37.47427,Production
+2015,42.82588,Production
+2016,44.30583,Production
+2017,43.1847,Production
+2018,47.84832,Production
+2019,49.3441,Production
+2020,45.65805,Production
+2021,38.2385,Production
+2022,34.93493,Production
+2023,32.8388342,Production
+2024,31.19689249,Production
+2025,29.71824526,Production
+2026,27.85882499,Production
+2027,26.18729549,Production
+2028,24.61605776,Production
+2029,23.07587273,Production
+2030,21.69132037,Production
+2031,20.38984114,Production
+2032,19.2189615,Production
+2033,18.01646363,Production
+2034,16.93547582,Production
+2035,15.91934727,Production
+2036,15.0051842,Production
+2037,14.06633525,Production
+2038,13.22235513,Production
+2039,12.42901382,Production
+2040,11.71528196,Production
+2041,10.98227661,Production
+2042,10.32334002,Production
+2043,9.703939616,Production
+2044,9.146694207,Production
+2045,8.574401045,Production
+2046,8.059936982,Production
+2047,7.576340763,Production
+2048,7.141271989,Production
+2049,6.694454698,Production
+2050,6.292787416,Production
+1998,87.891,Net Zero Demand
+1999,93.564,Net Zero Demand
+2000,96.85811,Net Zero Demand
+2001,96.35912,Net Zero Demand
+2002,95.10177,Net Zero Demand
+2003,95.36414,Net Zero Demand
+2004,97.44119,Net Zero Demand
+2005,94.95667,Net Zero Demand
+2006,90.05965,Net Zero Demand
+2007,91.05521,Net Zero Demand
+2008,93.47346,Net Zero Demand
+2009,87.18383,Net Zero Demand
+2010,94.12112,Net Zero Demand
+2011,78.26877,Net Zero Demand
+2012,73.47256,Net Zero Demand
+2013,72.92558,Net Zero Demand
+2014,66.91851267,Net Zero Demand
+2015,68.6987187,Net Zero Demand
+2016,76.77383742,Net Zero Demand
+2017,74.58421174,Net Zero Demand
+2018,74.1985286,Net Zero Demand
+2019,73.23852593,Net Zero Demand
+2020,68.8003932,Net Zero Demand
+2021,73.26480721,Net Zero Demand
+2022,67.64860724,Net Zero Demand
+2023,72.67374291,Net Zero Demand
+2024,71.45602841,Net Zero Demand
+2025,69.0607741,Net Zero Demand
+2026,65.20359886,Net Zero Demand
+2027,61.8566169,Net Zero Demand
+2028,59.23486719,Net Zero Demand
+2029,57.20914527,Net Zero Demand
+2030,53.47899153,Net Zero Demand
+2031,51.09660841,Net Zero Demand
+2032,46.60188067,Net Zero Demand
+2033,43.30682766,Net Zero Demand
+2034,41.24107214,Net Zero Demand
+2035,39.27460855,Net Zero Demand
+2036,37.85365434,Net Zero Demand
+2037,36.42223053,Net Zero Demand
+2038,34.7365478,Net Zero Demand
+2039,32.42779121,Net Zero Demand
+2040,31.01393195,Net Zero Demand
+2041,29.51790056,Net Zero Demand
+2042,28.50338871,Net Zero Demand
+2043,27.1768202,Net Zero Demand
+2044,25.78264065,Net Zero Demand
+2045,24.82815203,Net Zero Demand
+2046,23.41871012,Net Zero Demand
+2047,21.70437497,Net Zero Demand
+2048,20.22816065,Net Zero Demand
+2049,18.90295303,Net Zero Demand
+2050,17.81198729,Net Zero Demand
+1998,87.891,Reference Scenario Demand
+1999,93.564,Reference Scenario Demand
+2000,96.85811,Reference Scenario Demand
+2001,96.35912,Reference Scenario Demand
+2002,95.10177,Reference Scenario Demand
+2003,95.36414,Reference Scenario Demand
+2004,97.44119,Reference Scenario Demand
+2005,94.95667,Reference Scenario Demand
+2006,90.05965,Reference Scenario Demand
+2007,91.05521,Reference Scenario Demand
+2008,93.47346,Reference Scenario Demand
+2009,87.18383,Reference Scenario Demand
+2010,94.12112,Reference Scenario Demand
+2011,78.26877,Reference Scenario Demand
+2012,73.47256,Reference Scenario Demand
+2013,72.92558,Reference Scenario Demand
+2014,66.91851267,Reference Scenario Demand
+2015,68.6987187,Reference Scenario Demand
+2016,76.77383742,Reference Scenario Demand
+2017,74.58421174,Reference Scenario Demand
+2018,74.1985286,Reference Scenario Demand
+2019,73.23852593,Reference Scenario Demand
+2020,68.8003932,Reference Scenario Demand
+2021,73.26480721,Reference Scenario Demand
+2022,67.64860724,Reference Scenario Demand
+2023,55.31205753,Reference Scenario Demand
+2024,56.04874071,Reference Scenario Demand
+2025,57.30514489,Reference Scenario Demand
+2026,59.56721577,Reference Scenario Demand
+2027,60.00489453,Reference Scenario Demand
+2028,57.75721185,Reference Scenario Demand
+2029,57.34729449,Reference Scenario Demand
+2030,55.70118551,Reference Scenario Demand
+2031,56.91603166,Reference Scenario Demand
+2032,56.97680726,Reference Scenario Demand
+2033,57.36213627,Reference Scenario Demand
+2034,57.53171183,Reference Scenario Demand
+2035,56.70205347,Reference Scenario Demand
+2036,56.94765097,Reference Scenario Demand
+2037,57.5817328,Reference Scenario Demand
+2038,58.26766889,Reference Scenario Demand
+2039,58.89040818,Reference Scenario Demand
+2040,59.2877978,Reference Scenario Demand
